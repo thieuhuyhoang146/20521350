@@ -1,0 +1,11 @@
+Lời mở đầu
+
+Nhận dạng loài cá là một bài toán quan trọng trong lĩnh vực sinh học và môi trường. Việc xác định chính xác loài cá từ các hình ảnh có thể đóng vai trò quan trọng trong việc nghiên cứu và quản lý các hệ sinh thái nước. Tuy nhiên, việc nhận dạng loài cá thường đòi hỏi kiến thức chuyên môn và công sức đáng kể từ các chuyên gia. Do đó, sự phát triển của các phương pháp tự động nhận dạng loài cá đã thu hút sự quan tâm lớn trong cộng đồng nghiên cứu.
+
+Trong bối cảnh đó, học sâu và đặc biệt là phương pháp transfer learning đã chứng tỏ tiềm năng lớn trong việc giải quyết bài toán nhận dạng loài cá. Transfer learning cho phép chúng ta tận dụng kiến thức đã học từ một mô hình huấn luyện trước để giải quyết một tác vụ liên quan, nhờ đó giảm yêu cầu về dữ liệu huấn luyện và nâng cao hiệu suất của mô hình.
+
+Trong nghiên cứu này, chúng tôi đề xuất một phương pháp nhận dạng loài cá dựa trên học sâu và transfer learning. Mô hình chúng tôi xây dựng kết hợp sự mạnh mẽ của mạng nơ-ron tích chập (CNN) và việc áp dụng transfer learning từ một mô hình đã được huấn luyện trước trên tập dữ liệu lớn.
+
+Chúng tôi tin rằng phương pháp đề xuất này sẽ mang lại những đóng góp quan trọng cho lĩnh vực nhận dạng loài cá. Qua việc kết hợp sự hiểu biết về học sâu và transfer learning, chúng tôi hy vọng rằng phương pháp của chúng tôi sẽ cung cấp một giải pháp hiệu quả và chính xác cho bài toán nhận dạng loài cá, đồng thời tạo ra cơ sở để nghiên cứu và ứng dụng trong lĩnh vực này.
+
+Tiếp theo, chúng tôi sẽ trình bày chi tiết về phương pháp đề xuất, quá trình thực hiện và kết quả đạt được. Cuối cùng, chúng tôi sẽ trình bày các kết luận và hướng phát triển trong tương lai.
